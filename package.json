@@ -1,0 +1,8 @@
+{
+  "name": "google-coverage-parser",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "highlight.js": "^9.14.2"
+  }
+}
